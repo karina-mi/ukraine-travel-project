@@ -55,6 +55,11 @@ section.secondary {
 }
 
 .img-responsive {
+    width: 100%;
+    display: block;
+}
+
+.img-responsive-cafe {
     width: 148%;
     display: block;
 }
@@ -169,6 +174,15 @@ main p {
     line-height: 1.5;
     color: #272044;
     opacity: 0.7;
+}
+
+.embed {
+    width: 100%;
+    aspect-ratio: 1 /1;
+}
+
+.instagram-embeds {
+    margin: 30px 0;
 }
 
 
